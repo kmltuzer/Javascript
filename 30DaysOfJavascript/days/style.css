@@ -1,0 +1,1245 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+:root {
+    --darkaqua          : #2a9d8f;
+    --sweetdarkblue     : #003049;
+    --green             : #226f54;
+    --yellow            : #faa307;
+    --red               : #d62828;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html {
+    font-family: 'Roboto', sans-serif;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+
+}
+.grid{
+    display: grid;
+}
+
+/*.container {                                      // Day 21 | Exercise 1
+    gap: 1rem;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: stretch;
+}
+.tasks {
+    row-gap: 0.5rem;
+}
+.tasks p {
+    padding: 1rem 2rem;
+}
+.date{
+    padding: 0.5rem 1rem;
+}    padding-top: 0.25rem;
+
+*/
+
+/* .title{                                          // Day 22 | Exercise 1
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 1rem;
+}
+.container {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.25rem;
+    padding: 1rem;
+} */
+
+/* header {                                         // Day 22 | Exercise 2
+    text-align: center;
+}
+.title{
+    font-size: 2.5rem;
+}
+.countries {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.5rem;
+    padding: 3rem 1rem 1rem 1rem;
+
+} */
+
+/* .container {                                     // Day 22 | Exercise 3
+    width: 100vw;
+                                       
+    flex-direction: column;
+    gap: 2rem;
+
+    padding: 1rem;
+}
+header{
+    flex-direction: column;
+    gap: 2rem;
+}
+header h1 {
+    font-size: 2.5rem;
+}
+header h1, header h2 {
+    text-align: center;
+}
+header h2 a {
+    color: black;
+    font-weight: 300;
+}
+.tasks {
+    flex-direction: column;
+    gap: 0.25rem;
+}
+.task {
+    justify-self: stretch;
+    align-self: stretch;
+    justify-content: space-between;
+    gap: 5rem;
+
+    grid-template-columns: 1fr 1fr 1fr;
+
+    padding: 1rem;
+}
+details p{
+    padding-top: 0.25rem;
+    padding-left: 0.25rem;
+}
+
+.author {
+    flex-direction: column;
+    gap: 0.25rem;
+}
+.author h1 {
+    font-size: 2rem;
+}
+.social{
+    gap: 0.5rem;
+}
+
+.social i{
+    font-size: 2rem;
+}
+
+.description {
+    max-width: 800px;
+    text-align: center;
+}
+
+.top-footer{
+    align-items: start;
+    flex-wrap: wrap;
+
+    gap: 3rem;
+}
+.top-footer ul{
+    list-style-type: none;
+    white-space: nowrap;
+}
+.top-footer ul li {
+    padding-top: 0.25rem;
+    text-align: start;
+}
+.top-footer ul li span {
+    font-size: 18px;
+}
+
+footer{
+    gap: 1rem;
+}
+footer h1 {
+    justify-self: start;
+}
+.keys{
+    flex-wrap: wrap;
+    gap: 0.5rem;
+} */
+
+/* form {                                                       // DAY 23 : EVENT LISTENER | TO TEST SOME EXAMPLES 
+    flex-direction: column;
+    gap: 0.5rem;
+
+    padding: 0.5rem;
+}
+
+.name, 
+.lastname, 
+.email, 
+.phone {
+    grid-template-columns: 1fr 2.5fr;
+    justify-content: start;
+
+}
+.btn {
+    justify-self: end;
+    align-self: end;
+    padding: 0.25rem 0.75rem;
+}
+input {
+    padding: 0.25rem;
+
+    border: 1px solid #bbb;
+    border-radius: 0.2rem;
+    outline: none;
+} */
+
+/* .titles h1 {                                             // Day 23 : Exercise 1
+    color: var(--green);
+    font-size: 3rem;
+    text-shadow: 1px 1px 2px black;
+}
+.titles h2{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 300;
+    text-shadow: 1px 1px 2px var(--green);
+}
+
+.box-container {
+    align-self: stretch;
+
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    align-items: center;
+    justify-content: center;
+    gap: 0.25rem;
+
+    text-align: center;
+}
+.search {
+    align-self: stretch;
+    grid-template-columns: 5fr 1fr;
+    grid-template-rows: 1fr 2fr;
+    column-gap: 1rem;
+}
+.search input {
+    grid-column: 1;
+    grid-row: 2;
+    outline: none;
+    padding: 0.5rem;
+
+    border: 1px solid var(--green);
+
+    font-size: 1.5rem;
+}
+.search input::placeholder{
+    opacity: 0.4;
+}
+.search input:focus {
+    box-shadow: 0 0 2px 1px var(--green);
+}
+.search button {
+    grid-column: 2;
+    grid-row: 2;
+
+    background-color: var(--green);
+    border: none;
+    box-shadow: 0 0 1px 1px var(--green);
+
+    color: whitesmoke;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+}
+.search button:active {
+    transform: scale(0.98);
+} */
+
+/*body {                                                // Day 23 : Exercise 2 (the last one)
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+
+    padding: 1rem;
+} 
+.text, .unicode{                                     
+    min-width: 600px;
+
+    justify-content: center;
+    align-items: center;
+
+    padding: 2rem;
+
+    box-shadow: 0 0 3px 1px rgba(0, 0, 0, 0.5);
+
+    gap: 1rem;
+}
+.text h1 {
+    font-size: 3rem;
+
+    opacity: 0.8;
+
+    text-shadow: 1px 1px 3px var(--green);
+}
+.text p{
+    font-size: 3rem;
+    color: var(--green);
+    text-shadow: 1px 1px 2px black;
+}
+.unicode {
+    min-width: 200px;
+    min-height: 200px;
+
+    font-size: 4rem;
+    color: var(--green);
+    text-shadow: 1px 1px 2px black;
+
+} */
+
+/* body {                                   // Day 24 | Min solar project
+    flex-direction: column;
+    gap: 1rem;
+
+    justify-content: center;
+    align-items: center;
+
+}
+video{    
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
+.title {
+    z-index: 1;
+
+    color: whitesmoke;
+    font-size: 3rem;
+    text-shadow: 1px 1px 3px #fff;
+    text-align: center;
+}
+form {
+    z-index: 1;
+    
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+
+    padding: 0.5rem;
+}
+select, input, button{
+    padding: 0.5rem;
+
+    border: none;
+    outline: none;
+    border-radius: 5px;
+
+    background-color: whitesmoke;
+
+    font-size: 1.1rem;
+
+    flex: 1;
+}
+input{
+    flex: 2;
+}
+input:focus{
+    box-shadow: 0 0 2px 1px whitesmoke;
+}
+select{
+    box-shadow: 0 0 2px 1px #555;
+}
+button{
+    background-color: #555;
+    color: whitesmoke;
+}
+button a{
+    text-decoration: none;
+    color: inherit;
+}
+button:active {
+    transform: scale(0.98);
+}
+.showcase{
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    z-index: 1;
+
+    gap: 1rem;
+
+    background-color: rgba(85, 85, 85, 0.3);
+
+    padding: 1rem;
+}
+.showcase .img{
+    max-width:400px;    
+    max-height: 400px;
+}
+.showcase img{
+    width: 100%;
+    object-fit: cover;
+}
+.text{
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+    text-align: center;
+    
+    background-color: rgba(120, 120, 120, 0.3);
+    opacity: inherit;
+
+    font-size: 1.5rem;
+    color: white;
+}
+.planetUpper{
+    font-weight: 700;
+}
+.newton {
+    justify-self: center;
+    align-self: center;
+
+    justify-content: center;
+    align-items: center;
+
+    min-width: 70px;
+    min-height: 70px;
+
+    border-radius: 50%;
+
+    background-color: rgba(170, 170, 170, 0.8);
+
+    font-size: 1.3rem;
+    font-weight: bold;
+
+    display: none;
+} */
+
+/* .bg-lightgray{                           // Day 25 | World countries data
+    background-color: #eee;
+}
+.bg-yellow{
+    background-color: var(--yellow);
+}
+.box-shadow{
+    box-shadow: 0px 0px 12px 2px rgba(200, 200, 200, 0.5);
+}
+.header {
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+    padding: 1rem 0;
+}
+.title{
+    color: var(--yellow);
+    font-size: 4rem;
+    font-weight: normal;
+    text-shadow: 0 0 12px rgba(200, 200, 200, 0.5);
+}
+.header p{
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+.buttons {
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+
+    padding: 1.5rem 0;
+}
+.btn{
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+.btn button{
+    flex: 1;
+    
+    padding: 0.5rem 2.5rem;
+
+    font-size: 1.1rem;
+
+    border: none;
+    border-radius: 5px;
+}
+.btn button:active{
+    transform : scale(0.98);
+}
+.showcase{
+    padding: 1rem;
+}
+.populations, .languages {
+    gap: 0.75rem;
+}
+.data {
+    justify-content: center;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 0.5rem;
+}
+.bar{
+    width: 0%;
+    max-height: 19px;
+    transition: width 0.5s ease-in-out;
+} */
+
+/* .header{                                       // Day 26 | Show world coutries by starting or ending word or letter 
+    
+    background-image: url("../images/circle-world.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    position: relative;
+
+    padding: 5rem 0;
+
+    align-items: center;
+    gap: 0.5rem;
+}
+.overlay{
+    z-index: 1;
+    background-color: rgba(250, 250, 250, 0.2);
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+.title{
+    font-size: 3.5rem;
+}
+.title, .sum, .info{
+    z-index: 2;
+
+    color: #ddd;
+    text-shadow: 2px 2px 5px black;
+}
+.info{
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 1.1rem;
+
+}
+.info span:nth-child(1) {
+    color: var(--red);
+}
+.info span:nth-child(2) {
+    color: var(--green);
+}
+
+.buttons{
+    z-index: 2;
+
+    gap: 0.5rem;
+}
+.bg-purple{
+    background-color: #7209b7;
+
+    border: none;
+
+    color: #ddd;
+    font-size: 1rem;
+
+    cursor: pointer;
+}
+.large-btn{
+    padding: 1rem 2rem;
+}
+#sort-btn{
+    padding: 1rem;
+}
+#sort-btn:active {
+    box-shadow: inset 0 0 2px 1px black;
+}
+.sort-btn:active{
+    box-shadow: inset 0 0 2px 1px black;
+}
+.search{
+    z-index: 2;
+
+    gap: 0.5rem;
+
+    align-self: stretch;
+    justify-self: stretch;
+    align-items: center;
+    justify-content: center;
+
+}
+.search input{
+    display: block;
+
+    min-width: 60%;
+
+    padding: 0.75rem;
+
+    font-size: 1.2rem;
+
+    outline: none;
+    border: none;
+    border-radius: 50px;
+
+    background-color: #ddd;
+}
+.search input:focus{
+    box-shadow: 0 0 5px 1px rgba(221, 221, 221, 0.5);
+}
+.search-btn{
+    padding: 0.75rem;
+    background-color: transparent;
+    color: #ddd;
+    border: none;
+}
+.showcase {
+    gap: 1rem;
+    justify-content: space-evenly;
+
+    padding: 1rem 0.5rem;
+}
+.country {
+    background-image: url("../images/continents.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    width: 200px;
+    height: 200px;
+
+    border-radius: 15px;
+    box-shadow: 0 0 5px 1px black;
+
+    overflow: hidden;
+}
+
+@media (max-width : 600px) {
+    header, .buttons{
+        justify-content: center;
+        text-align: center;
+    }
+    .country{
+        width: 150px;
+        height: 150px;
+    }
+    .country h2 {
+        font-size: 1.2rem;
+    }
+    .showcase {
+        row-gap: 1rem;
+    }
+    .title{
+        font-size: 3rem;
+    }
+    .search input {
+        font-size: 1.2rem;
+    }
+    .search-btn{
+        display: none;
+    }
+}
+@media (max-width : 350px) {
+    .country{
+        min-width: 250px;
+        min-height: 200px;
+    }
+} */
+
+/* .container{                                      // Day 27 | PORTFOLIO WITH A FEW ANIMATED TEXT
+
+    gap: 1rem;
+
+    padding: 2rem 3rem 0.5rem 3rem;
+}
+p,h1,a,span {
+    opacity: 0.8;
+}
+header{
+    gap: 1rem;
+}
+.title{
+    letter-spacing: 5px;
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.7;
+}
+.info-box{
+    padding: 1rem;
+    height: 60px;
+
+    background-color: lightpink;
+}
+.middle{
+    align-self: stretch;
+    justify-content: stretch;
+    gap: 1rem;
+}
+.middle div{
+    flex: 1;
+}
+a{
+    display: block;
+
+    padding: 3rem;
+
+    text-decoration: none;
+    font-size: 1.3rem;
+    color: black;
+
+    background-color: #ddd;
+
+    box-shadow : 0 0 5px 1px #aaa;
+}
+.link a:hover{
+    background-color : hotpink;
+    transform: scale(1.05);
+
+}
+footer {
+    align-self: stretch;
+    justify-self: stretch;
+}
+@keyframes slide-right {
+    to {
+      transform:translateX(30%);
+    }
+}
+@keyframes fade {
+    to {
+      opacity: 1;
+    }
+}
+
+@media (max-width : 750px) {
+    .container{
+        padding: 0.25rem;
+    }
+    .middle{
+        gap: 0.5rem;
+    }
+    .title{
+        text-align: center;
+    }
+} */
+
+/*.container{                                               // DAY 28 | User input area 
+
+    padding: 1rem 3rem;
+
+    gap: 1rem;
+}
+header{
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+#title{
+    opacity: 0.8;
+}
+form, section{
+    align-self: stretch;
+    justify-self: stretch;
+    gap: 0.5rem;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0.75rem;
+
+}
+input{
+    display: block;
+
+    max-width: 250px;
+
+    padding: 0.5rem;
+
+    font-size: 1.2rem;
+    font-weight: normal;
+
+    border: 1px solid rgba(238, 111, 238, 0.8);
+    outline: none;
+
+    transition: box-shadow 0.3s ease;
+}
+input:focus{
+    box-shadow: 0 0 5px 1px rgba(238, 111, 238, 0.8);
+}
+.btn{
+    border: none;
+
+    background-color: rgba(238, 111, 238, 0.8);
+
+    padding: 0.5rem 2rem;
+
+    align-self: stretch;
+    justify-self: stretch;
+
+    font-size: 1.1rem;
+    color: whitesmoke;
+}
+.btn:hover{
+    opacity: 0.7;
+
+    cursor: pointer;
+}
+.btn:active{
+    box-shadow: inset 0 0 2px #fff;
+}
+.error{
+    align-self: center;
+    background-color: inherit;
+}
+#error{
+    font-weight: bold;
+    color: rgba(255, 0, 0, 0.8);
+}
+main{
+    gap: 0.5rem;
+}
+.user-sec{
+    display: grid;
+    grid-template-columns: 1fr repeat(3, 1fr);
+
+    background-color: rgba(238, 111, 238, 0.8);
+}
+.text{
+    gap: 0.5rem;
+    align-items: center;
+}
+h3{
+    font-weight: 400;
+}
+.circles{
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+.circle{
+    width: 50px;
+    height: 50px;
+
+    align-items: center;
+    justify-content: center;
+
+    border: none;
+    border-radius: 50%;
+
+    background-color: whitesmoke;
+}
+.circle:active{
+    box-shadow: inset 0 0 3px 1px rgba(238, 111, 238, 0.8);
+}
+.circle:hover{
+    opacity: 0.8;
+
+    cursor: pointer;
+}
+i{
+    color: rgba(255, 0, 0, 0.8);
+}
+
+
+@media (max-width : 800px) {
+    .container{
+        padding: 0.25rem;
+        text-align: center;
+    }
+    form,section{
+        padding: 0.25rem;
+        align-items: center;
+        justify-content: start;    
+    }
+}
+
+@media (max-width : 450px) {
+    form,section{
+        justify-content: center;    
+    }
+}
+*/
+
+/* // DAY 30 | FINAL PROJECT 1 */
+
+/* .font-yellow{                        
+    color: var(--yellow);
+}
+.bg-yellow{
+    background-color: var(--yellow);
+}
+.bg-lightgray{
+    background-color: #eee;
+}
+.container, .search{
+    gap: 1rem;
+}
+.header{
+    align-items: center;
+    text-align: center;
+
+    padding: 1rem 0 2rem 0;
+}
+.h-title{
+    text-shadow: 1px 1px 5px black;
+    font-size: 4rem;
+}
+.search{
+    grid-template-areas: 
+        "input input input ."
+        "buttons buttons buttons i";
+    align-items: center;
+    justify-content: center;
+}
+button{
+    border: none;
+    font-size: 1.2rem;
+}
+input{
+    grid-area: input;
+    width: 90%;
+    margin-left: 4.99%;
+    margin-right: 4.99%;
+
+    outline: none;
+    border: 1px solid #aaa;
+    border-radius: 20px;
+
+    padding: 0.4rem 0.75rem;
+
+    font-size: 1.2rem;
+}
+input:focus{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    border: 1px solid var(--yellow);
+}
+.s-buttons{
+    grid-area: buttons;
+    grid-template-columns: repeat(3, 4fr) 1fr;
+    gap: 1.25rem;
+}
+.s-btn{
+    grid-template-columns: 5fr 1fr;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0.4rem;
+
+    border-radius: 20px;
+}
+.s-btn p{
+    padding-left: 1rem;
+}
+.showcase{
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-auto-rows: minmax(200px, 250px);
+    gap: 0.5rem;
+
+    padding: 1rem;
+}
+.country-c{
+    grid-template-rows: 3fr 1fr 2fr;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+
+    background-color: #fff;
+}
+.flag{
+    max-width: 200px;
+    max-height: 200px;
+}
+.flag img{
+    width: 100%;
+    max-height: 150px;
+
+    object-fit: cover;
+}
+.c-name,.flag {
+    justify-self: center;
+}
+.country-c p {
+    font-size: 0.9rem;
+}
+
+.f-header{
+    text-align: center;
+    justify-content: center;
+
+    gap: 1rem;
+}
+.f-buttons{
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+.f-btn{
+    padding: 0.5rem 2rem;
+}
+.f-btn:active{
+    box-shadow: inset 0 0 2px 1px black;
+}
+.f-showcase{
+    gap: 0.5rem;
+
+    padding: 1rem 0.5rem;
+}
+.f-row{
+    grid-template-columns: 1fr 3fr 1fr;
+    justify-items: center;
+}
+.f-bar{
+    justify-self: stretch;
+}
+@media (max-width : 639px) {
+    .h-title{
+        font-size: 2.5rem;
+    }
+    .showcase{
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        grid-auto-rows: minmax(150px, 250px);
+        justify-content: center;
+        align-items: center;
+    }
+    .s-btn p{
+        padding-left: 0.75rem;
+    }
+    button{
+        font-size: 1rem;
+    }
+    
+}
+
+@media (max-width : 560px) {
+    .showcase{
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .search, 
+    .s-buttons{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .f-bar{
+        height: 20px;
+    }
+    .f-row{
+        grid-template-columns: 1fr 2fr 1fr;
+        align-items: center;
+        text-align: center;
+    }
+} */
+
+/* FINAL PROJECT 2 */
+
+/* .container{
+    align-items: center;
+    gap: 2.5rem;
+}
+.title{
+    font-size: 3rem;
+    opacity: 0.7;
+}
+label{
+    display: grid;
+    grid-template-rows: 0.5fr 1fr 1fr;
+    gap: 0.25rem;
+}
+label:nth-last-child(1){
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+label:nth-last-child(1) .result{
+    font-weight: bold;
+    color: green;
+    font-size: 1.5rem;
+    opacity: 0.8;
+}
+input{
+    border: 1px solid #aaa;
+    outline: none;
+    border-radius: 10px;
+
+    padding: 0.5rem;
+
+    font-size: 1.2rem;
+
+    max-width: 600px;
+}
+input:focus{
+    border: 1.5px solid var(--yellow);
+}
+.info{
+    text-align: center;
+    color: var(--yellow);
+    font-size: 1rem;
+    font-weight: bold;
+
+    inline-size: max(600px);
+}
+.form-title{
+    font-size: 1.3rem;
+    font-weight: 500;
+    opacity: 0.7;
+}
+.submit{
+    margin-top: 0.3rem;
+
+    border: none;
+    border-radius: 10px;
+
+    max-width: 200px;
+
+    background-color: rgb(50, 50, 50);
+}
+.submit a {
+    display: block;
+    padding: 1rem 1.5rem;
+
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: white;
+}
+ */
+
+/* FINAL PROJECT 3 (The last one)*/
+
+/* .container{
+    justify-content: center;
+    gap: 2rem;
+}
+.title{
+    text-align: center;
+    font-size: 3rem;
+    letter-spacing: 3px;
+    opacity: 0.9;
+}
+form{
+    grid-template: repeat(2,minmax(50px, 100px)) 10px minmax(50px, 100px) 50px/ 1fr 1fr;
+    column-gap: 1.5rem;
+}
+.form-title{
+    font-size: 1.2rem;
+    color: var(--sweetdarkblue);
+    font-weight: 500;
+}
+.input{
+    display: block;
+    min-width: 300px;
+
+    border-radius: 15px;
+    border: 1px solid var(--sweetdarkblue);
+    outline: none;
+
+    font-family: inherit;
+    font-size: 1.2rem;
+
+    padding: 0.5rem;
+}
+.input:focus{
+    outline: 1px solid var(--sweetdarkblue);
+}
+label{
+    display: grid;
+    grid-template-rows: 0.75fr 1fr 0.75fr;
+}
+label:nth-child(1){
+    grid-area: 1/1/2/3;
+}
+label:nth-child(2){
+    grid-area: 2/1/3/3;
+}
+label:nth-child(3){
+    grid-area: 4/1/5/2;
+}
+label:nth-child(4){
+    grid-area: 4/2/5/3;
+}
+.info:not(.c-card-info){
+    color: var(--red);
+    margin-left: 48px;
+
+    align-self: center;
+}
+.cc-input{
+    position: relative;
+    grid-template-columns: 1fr;
+}
+.cc-input i{
+    position: absolute;
+    right: 15px;
+    top: 25%;
+
+    z-index: 1;
+
+    font-size: 1.4rem;
+    font-style: normal;
+}
+.img-info{
+    grid-template-columns: 40px 1fr;
+    align-items: center;
+    gap: 0.5rem;
+}
+.img{
+    padding-left: 0.5rem;
+}
+img{    
+    display: block;
+
+    width: 100%;
+    object-fit: cover;
+}
+.submit-area{    
+    grid-area: 5/1/6/3;
+    grid-template-columns: 0.5fr 1fr;
+    align-items: center;
+    text-align: center;
+}
+.submit-btn{
+    border: none;
+
+    background-color: var(--sweetdarkblue);
+}
+.submit{
+    display: block;
+
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+    padding: 0.75rem 3rem;
+}
+
+@media (max-width : 630px) {
+    form{
+        grid-template: repeat(2,minmax(50px, 100px)) 10px repeat(2, minmax(50px, 100px)) 15px 50px/ 1fr;
+        align-items: center;
+    }
+    label{
+        width: 95%;
+        justify-self: center;
+    }
+    label:nth-child(1){
+        grid-column: 1;
+        grid-row: 1;
+    }
+    label:nth-child(2){
+        grid-column: 1;
+        grid-row: 2;
+    }
+    label:nth-child(3){
+        grid-column: 1;
+        grid-row: 4;
+    }
+    label:nth-child(4){
+        grid-column: 1;
+        grid-row: 5;
+    }
+    .submit-area{    
+        grid-column: 1;
+        grid-row: 7;
+        padding-left: 5%;
+    }
+} */

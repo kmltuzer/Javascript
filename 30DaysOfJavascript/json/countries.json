@@ -1,0 +1,1629 @@
+{
+    "Afghanistan": {
+        "population": 40218234,
+        "languages": [
+            "Pashto",
+            "Uzbek",
+            "Turkmen"
+        ]
+    },
+    "Åland Islands": {
+        "population": 28875,
+        "languages": [
+            "Swedish"
+        ]
+    },
+    "Albania": {
+        "population": 2837743,
+        "languages": [
+            "Albanian"
+        ]
+    },
+    "Algeria": {
+        "population": 44700000,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "American Samoa": {
+        "population": 55197,
+        "languages": [
+            "English",
+            "Samoan"
+        ]
+    },
+    "Andorra": {
+        "population": 77265,
+        "languages": [
+            "Catalan"
+        ]
+    },
+    "Angola": {
+        "population": 32866268,
+        "languages": [
+            "Portuguese"
+        ]
+    },
+    "Anguilla": {
+        "population": 13452,
+        "languages": [
+            "English"
+        ]
+    },
+    "Antarctica": {
+        "population": 1000,
+        "languages": [
+            "English",
+            "Russian"
+        ]
+    },
+    "Antigua and Barbuda": {
+        "population": 97928,
+        "languages": [
+            "English"
+        ]
+    },
+    "Argentina": {
+        "population": 45376763,
+        "languages": [
+            "Spanish",
+            "Guaraní"
+        ]
+    },
+    "Armenia": {
+        "population": 2963234,
+        "languages": [
+            "Armenian"
+        ]
+    },
+    "Aruba": {
+        "population": 106766,
+        "languages": [
+            "Dutch",
+            "(Eastern) Punjabi"
+        ]
+    },
+    "Australia": {
+        "population": 25687041,
+        "languages": [
+            "English"
+        ]
+    },
+    "Austria": {
+        "population": 8917205,
+        "languages": [
+            "German"
+        ]
+    },
+    "Azerbaijan": {
+        "population": 10110116,
+        "languages": [
+            "Azerbaijani"
+        ]
+    },
+    "Bahamas": {
+        "population": 393248,
+        "languages": [
+            "English"
+        ]
+    },
+    "Bahrain": {
+        "population": 1701583,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Bangladesh": {
+        "population": 164689383,
+        "languages": [
+            "Bengali"
+        ]
+    },
+    "Barbados": {
+        "population": 287371,
+        "languages": [
+            "English"
+        ]
+    },
+    "Belarus": {
+        "population": 9398861,
+        "languages": [
+            "Belarusian",
+            "Russian"
+        ]
+    },
+    "Belgium": {
+        "population": 11555997,
+        "languages": [
+            "Dutch",
+            "French",
+            "German"
+        ]
+    },
+    "Belize": {
+        "population": 397621,
+        "languages": [
+            "English",
+            "Spanish"
+        ]
+    },
+    "Benin": {
+        "population": 12123198,
+        "languages": [
+            "French"
+        ]
+    },
+    "Bermuda": {
+        "population": 63903,
+        "languages": [
+            "English"
+        ]
+    },
+    "Bhutan": {
+        "population": 771612,
+        "languages": [
+            "Dzongkha"
+        ]
+    },
+    "Bolivia (Plurinational State of)": {
+        "population": 11673029,
+        "languages": [
+            "Spanish",
+            "Aymara",
+            "Quechua"
+        ]
+    },
+    "Bonaire, Sint Eustatius and Saba": {
+        "population": 17408,
+        "languages": [
+            "Dutch"
+        ]
+    },
+    "Bosnia and Herzegovina": {
+        "population": 3280815,
+        "languages": [
+            "Bosnian",
+            "Croatian",
+            "Serbian"
+        ]
+    },
+    "Botswana": {
+        "population": 2351625,
+        "languages": [
+            "English",
+            "Tswana"
+        ]
+    },
+    "Bouvet Island": {
+        "population": 0,
+        "languages": [
+            "Norwegian",
+            "Norwegian Bokmål",
+            "Norwegian Nynorsk"
+        ]
+    },
+    "Brazil": {
+        "population": 212559409,
+        "languages": [
+            "Portuguese"
+        ]
+    },
+    "British Indian Ocean Territory": {
+        "population": 3000,
+        "languages": [
+            "English"
+        ]
+    },
+    "United States Minor Outlying Islands": {
+        "population": 300,
+        "languages": [
+            "English"
+        ]
+    },
+    "Virgin Islands (British)": {
+        "population": 30237,
+        "languages": [
+            "English"
+        ]
+    },
+    "Virgin Islands (U.S.)": {
+        "population": 106290,
+        "languages": [
+            "English"
+        ]
+    },
+    "Brunei Darussalam": {
+        "population": 437483,
+        "languages": [
+            "Malay"
+        ]
+    },
+    "Bulgaria": {
+        "population": 6927288,
+        "languages": [
+            "Bulgarian"
+        ]
+    },
+    "Burkina Faso": {
+        "population": 20903278,
+        "languages": [
+            "French",
+            "Fula"
+        ]
+    },
+    "Burundi": {
+        "population": 11890781,
+        "languages": [
+            "French",
+            "Kirundi"
+        ]
+    },
+    "Cambodia": {
+        "population": 16718971,
+        "languages": [
+            "Khmer"
+        ]
+    },
+    "Cameroon": {
+        "population": 26545864,
+        "languages": [
+            "English",
+            "French"
+        ]
+    },
+    "Canada": {
+        "population": 38005238,
+        "languages": [
+            "English",
+            "French"
+        ]
+    },
+    "Cabo Verde": {
+        "population": 555988,
+        "languages": [
+            "Portuguese"
+        ]
+    },
+    "Cayman Islands": {
+        "population": 65720,
+        "languages": [
+            "English"
+        ]
+    },
+    "Central African Republic": {
+        "population": 4829764,
+        "languages": [
+            "French",
+            "Sango"
+        ]
+    },
+    "Chad": {
+        "population": 16425859,
+        "languages": [
+            "French",
+            "Arabic"
+        ]
+    },
+    "Chile": {
+        "population": 19116209,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "China": {
+        "population": 1402112000,
+        "languages": [
+            "Chinese"
+        ]
+    },
+    "Christmas Island": {
+        "population": 2072,
+        "languages": [
+            "English"
+        ]
+    },
+    "Cocos (Keeling) Islands": {
+        "population": 550,
+        "languages": [
+            "English"
+        ]
+    },
+    "Colombia": {
+        "population": 50882884,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Comoros": {
+        "population": 869595,
+        "languages": [
+            "Arabic",
+            "French"
+        ]
+    },
+    "Congo": {
+        "population": 5518092,
+        "languages": [
+            "French",
+            "Lingala"
+        ]
+    },
+    "Congo (Democratic Republic of the)": {
+        "population": 89561404,
+        "languages": [
+            "French",
+            "Lingala",
+            "Kongo",
+            "Swahili",
+            "Luba-Katanga"
+        ]
+    },
+    "Cook Islands": {
+        "population": 18100,
+        "languages": [
+            "English",
+            "Cook Islands Māori"
+        ]
+    },
+    "Costa Rica": {
+        "population": 5094114,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Croatia": {
+        "population": 4047200,
+        "languages": [
+            "Croatian"
+        ]
+    },
+    "Cuba": {
+        "population": 11326616,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Curaçao": {
+        "population": 155014,
+        "languages": [
+            "Dutch",
+            "(Eastern) Punjabi",
+            "English"
+        ]
+    },
+    "Cyprus": {
+        "population": 1207361,
+        "languages": [
+            "Greek (modern)",
+            "Turkish",
+            "Armenian"
+        ]
+    },
+    "Czech Republic": {
+        "population": 10698896,
+        "languages": [
+            "Czech",
+            "Slovak"
+        ]
+    },
+    "Denmark": {
+        "population": 5831404,
+        "languages": [
+            "Danish"
+        ]
+    },
+    "Djibouti": {
+        "population": 988002,
+        "languages": [
+            "French",
+            "Arabic"
+        ]
+    },
+    "Dominica": {
+        "population": 71991,
+        "languages": [
+            "English"
+        ]
+    },
+    "Dominican Republic": {
+        "population": 10847904,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Ecuador": {
+        "population": 17643060,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Egypt": {
+        "population": 102334403,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "El Salvador": {
+        "population": 6486201,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Equatorial Guinea": {
+        "population": 1402985,
+        "languages": [
+            "Spanish",
+            "French",
+            "Portuguese",
+            "Fang"
+        ]
+    },
+    "Eritrea": {
+        "population": 5352000,
+        "languages": [
+            "Tigrinya",
+            "Arabic",
+            "English",
+            "Tigre",
+            "Kunama",
+            "Saho",
+            "Bilen",
+            "Nara",
+            "Afar"
+        ]
+    },
+    "Estonia": {
+        "population": 1331057,
+        "languages": [
+            "Estonian"
+        ]
+    },
+    "Ethiopia": {
+        "population": 114963583,
+        "languages": [
+            "Amharic"
+        ]
+    },
+    "Falkland Islands (Malvinas)": {
+        "population": 2563,
+        "languages": [
+            "English"
+        ]
+    },
+    "Faroe Islands": {
+        "population": 48865,
+        "languages": [
+            "Faroese"
+        ]
+    },
+    "Fiji": {
+        "population": 896444,
+        "languages": [
+            "English",
+            "Fijian",
+            "Fiji Hindi",
+            "Rotuman"
+        ]
+    },
+    "Finland": {
+        "population": 5530719,
+        "languages": [
+            "Finnish",
+            "Swedish"
+        ]
+    },
+    "France": {
+        "population": 67391582,
+        "languages": [
+            "French"
+        ]
+    },
+    "French Guiana": {
+        "population": 254541,
+        "languages": [
+            "French"
+        ]
+    },
+    "French Polynesia": {
+        "population": 280904,
+        "languages": [
+            "French"
+        ]
+    },
+    "French Southern Territories": {
+        "population": 140,
+        "languages": [
+            "French"
+        ]
+    },
+    "Gabon": {
+        "population": 2225728,
+        "languages": [
+            "French"
+        ]
+    },
+    "Gambia": {
+        "population": 2416664,
+        "languages": [
+            "English"
+        ]
+    },
+    "Georgia": {
+        "population": 3714000,
+        "languages": [
+            "Georgian"
+        ]
+    },
+    "Germany": {
+        "population": 83240525,
+        "languages": [
+            "German"
+        ]
+    },
+    "Ghana": {
+        "population": 31072945,
+        "languages": [
+            "English"
+        ]
+    },
+    "Gibraltar": {
+        "population": 33691,
+        "languages": [
+            "English"
+        ]
+    },
+    "Greece": {
+        "population": 10715549,
+        "languages": [
+            "Greek (modern)"
+        ]
+    },
+    "Greenland": {
+        "population": 56367,
+        "languages": [
+            "Kalaallisut"
+        ]
+    },
+    "Grenada": {
+        "population": 112519,
+        "languages": [
+            "English"
+        ]
+    },
+    "Guadeloupe": {
+        "population": 400132,
+        "languages": [
+            "French"
+        ]
+    },
+    "Guam": {
+        "population": 168783,
+        "languages": [
+            "English",
+            "Chamorro",
+            "Spanish"
+        ]
+    },
+    "Guatemala": {
+        "population": 16858333,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Guernsey": {
+        "population": 62999,
+        "languages": [
+            "English",
+            "French"
+        ]
+    },
+    "Guinea": {
+        "population": 13132792,
+        "languages": [
+            "French",
+            "Fula"
+        ]
+    },
+    "Guinea-Bissau": {
+        "population": 1967998,
+        "languages": [
+            "Portuguese"
+        ]
+    },
+    "Guyana": {
+        "population": 786559,
+        "languages": [
+            "English"
+        ]
+    },
+    "Haiti": {
+        "population": 11402533,
+        "languages": [
+            "French",
+            "Haitian"
+        ]
+    },
+    "Heard Island and McDonald Islands": {
+        "population": 0,
+        "languages": [
+            "English"
+        ]
+    },
+    "Vatican City": {
+        "population": 451,
+        "languages": [
+            "Latin",
+            "Italian",
+            "French",
+            "German"
+        ]
+    },
+    "Honduras": {
+        "population": 9904608,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Hungary": {
+        "population": 9749763,
+        "languages": [
+            "Hungarian"
+        ]
+    },
+    "Hong Kong": {
+        "population": 7481800,
+        "languages": [
+            "English",
+            "Chinese"
+        ]
+    },
+    "Iceland": {
+        "population": 366425,
+        "languages": [
+            "Icelandic"
+        ]
+    },
+    "India": {
+        "population": 1380004385,
+        "languages": [
+            "Hindi",
+            "English"
+        ]
+    },
+    "Indonesia": {
+        "population": 273523621,
+        "languages": [
+            "Indonesian"
+        ]
+    },
+    "Ivory Coast": {
+        "population": 26378275,
+        "languages": [
+            "French"
+        ]
+    },
+    "Iran (Islamic Republic of)": {
+        "population": 83992953,
+        "languages": [
+            "Persian (Farsi)"
+        ]
+    },
+    "Iraq": {
+        "population": 40222503,
+        "languages": [
+            "Arabic",
+            "Kurdish"
+        ]
+    },
+    "Ireland": {
+        "population": 4994724,
+        "languages": [
+            "Irish",
+            "English"
+        ]
+    },
+    "Isle of Man": {
+        "population": 85032,
+        "languages": [
+            "English",
+            "Manx"
+        ]
+    },
+    "Israel": {
+        "population": 9216900,
+        "languages": [
+            "Hebrew (modern)",
+            "Arabic"
+        ]
+    },
+    "Italy": {
+        "population": 59554023,
+        "languages": [
+            "Italian"
+        ]
+    },
+    "Jamaica": {
+        "population": 2961161,
+        "languages": [
+            "English"
+        ]
+    },
+    "Japan": {
+        "population": 125836021,
+        "languages": [
+            "Japanese"
+        ]
+    },
+    "Jersey": {
+        "population": 100800,
+        "languages": [
+            "English",
+            "French"
+        ]
+    },
+    "Jordan": {
+        "population": 10203140,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Kazakhstan": {
+        "population": 18754440,
+        "languages": [
+            "Kazakh",
+            "Russian"
+        ]
+    },
+    "Kenya": {
+        "population": 53771300,
+        "languages": [
+            "English",
+            "Swahili"
+        ]
+    },
+    "Kiribati": {
+        "population": 119446,
+        "languages": [
+            "English"
+        ]
+    },
+    "Kuwait": {
+        "population": 4270563,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Kyrgyzstan": {
+        "population": 6591600,
+        "languages": [
+            "Kyrgyz",
+            "Russian"
+        ]
+    },
+    "Lao People's Democratic Republic": {
+        "population": 7275556,
+        "languages": [
+            "Lao"
+        ]
+    },
+    "Latvia": {
+        "population": 1901548,
+        "languages": [
+            "Latvian"
+        ]
+    },
+    "Lebanon": {
+        "population": 6825442,
+        "languages": [
+            "Arabic",
+            "French"
+        ]
+    },
+    "Lesotho": {
+        "population": 2142252,
+        "languages": [
+            "English",
+            "Southern Sotho"
+        ]
+    },
+    "Liberia": {
+        "population": 5057677,
+        "languages": [
+            "English"
+        ]
+    },
+    "Libya": {
+        "population": 6871287,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Liechtenstein": {
+        "population": 38137,
+        "languages": [
+            "German"
+        ]
+    },
+    "Lithuania": {
+        "population": 2794700,
+        "languages": [
+            "Lithuanian"
+        ]
+    },
+    "Luxembourg": {
+        "population": 632275,
+        "languages": [
+            "French",
+            "German",
+            "Luxembourgish"
+        ]
+    },
+    "Macao": {
+        "population": 649342,
+        "languages": [
+            "Chinese",
+            "Portuguese"
+        ]
+    },
+    "North Macedonia": {
+        "population": 2083380,
+        "languages": [
+            "Macedonian"
+        ]
+    },
+    "Madagascar": {
+        "population": 27691019,
+        "languages": [
+            "French",
+            "Malagasy"
+        ]
+    },
+    "Malawi": {
+        "population": 19129955,
+        "languages": [
+            "English",
+            "Chichewa"
+        ]
+    },
+    "Malaysia": {
+        "population": 32365998,
+        "languages": [
+            "Malaysian"
+        ]
+    },
+    "Maldives": {
+        "population": 540542,
+        "languages": [
+            "Divehi"
+        ]
+    },
+    "Mali": {
+        "population": 20250834,
+        "languages": [
+            "French"
+        ]
+    },
+    "Malta": {
+        "population": 525285,
+        "languages": [
+            "Maltese",
+            "English"
+        ]
+    },
+    "Marshall Islands": {
+        "population": 59194,
+        "languages": [
+            "English",
+            "Marshallese"
+        ]
+    },
+    "Martinique": {
+        "population": 378243,
+        "languages": [
+            "French"
+        ]
+    },
+    "Mauritania": {
+        "population": 4649660,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Mauritius": {
+        "population": 1265740,
+        "languages": [
+            "English"
+        ]
+    },
+    "Mayotte": {
+        "population": 226915,
+        "languages": [
+            "French"
+        ]
+    },
+    "Mexico": {
+        "population": 128932753,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Micronesia (Federated States of)": {
+        "population": 115021,
+        "languages": [
+            "English"
+        ]
+    },
+    "Moldova (Republic of)": {
+        "population": 2617820,
+        "languages": [
+            "Romanian"
+        ]
+    },
+    "Monaco": {
+        "population": 39244,
+        "languages": [
+            "French"
+        ]
+    },
+    "Mongolia": {
+        "population": 3278292,
+        "languages": [
+            "Mongolian"
+        ]
+    },
+    "Montenegro": {
+        "population": 621718,
+        "languages": [
+            "Serbian",
+            "Bosnian",
+            "Albanian",
+            "Croatian"
+        ]
+    },
+    "Montserrat": {
+        "population": 4922,
+        "languages": [
+            "English"
+        ]
+    },
+    "Morocco": {
+        "population": 36910558,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Mozambique": {
+        "population": 31255435,
+        "languages": [
+            "Portuguese"
+        ]
+    },
+    "Myanmar": {
+        "population": 54409794,
+        "languages": [
+            "Burmese"
+        ]
+    },
+    "Namibia": {
+        "population": 2540916,
+        "languages": [
+            "English",
+            "Afrikaans"
+        ]
+    },
+    "Nauru": {
+        "population": 10834,
+        "languages": [
+            "English",
+            "Nauruan"
+        ]
+    },
+    "Nepal": {
+        "population": 29136808,
+        "languages": [
+            "Nepali"
+        ]
+    },
+    "Netherlands": {
+        "population": 17441139,
+        "languages": [
+            "Dutch"
+        ]
+    },
+    "New Caledonia": {
+        "population": 271960,
+        "languages": [
+            "French"
+        ]
+    },
+    "New Zealand": {
+        "population": 5084300,
+        "languages": [
+            "English",
+            "Māori"
+        ]
+    },
+    "Nicaragua": {
+        "population": 6624554,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Niger": {
+        "population": 24206636,
+        "languages": [
+            "French"
+        ]
+    },
+    "Nigeria": {
+        "population": 206139587,
+        "languages": [
+            "English"
+        ]
+    },
+    "Niue": {
+        "population": 1470,
+        "languages": [
+            "English"
+        ]
+    },
+    "Norfolk Island": {
+        "population": 2302,
+        "languages": [
+            "English"
+        ]
+    },
+    "Korea (Democratic People's Republic of)": {
+        "population": 25778815,
+        "languages": [
+            "Korean"
+        ]
+    },
+    "Northern Mariana Islands": {
+        "population": 57557,
+        "languages": [
+            "English",
+            "Chamorro"
+        ]
+    },
+    "Norway": {
+        "population": 5379475,
+        "languages": [
+            "Norwegian",
+            "Norwegian Bokmål",
+            "Norwegian Nynorsk"
+        ]
+    },
+    "Oman": {
+        "population": 5106622,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Pakistan": {
+        "population": 220892331,
+        "languages": [
+            "Urdu",
+            "English"
+        ]
+    },
+    "Palau": {
+        "population": 18092,
+        "languages": [
+            "English"
+        ]
+    },
+    "Palestine, State of": {
+        "population": 4803269,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Panama": {
+        "population": 4314768,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Papua New Guinea": {
+        "population": 8947027,
+        "languages": [
+            "English"
+        ]
+    },
+    "Paraguay": {
+        "population": 7132530,
+        "languages": [
+            "Spanish",
+            "Guaraní"
+        ]
+    },
+    "Peru": {
+        "population": 32971846,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Philippines": {
+        "population": 109581085,
+        "languages": [
+            "English"
+        ]
+    },
+    "Pitcairn": {
+        "population": 56,
+        "languages": [
+            "English"
+        ]
+    },
+    "Poland": {
+        "population": 37950802,
+        "languages": [
+            "Polish"
+        ]
+    },
+    "Portugal": {
+        "population": 10305564,
+        "languages": [
+            "Portuguese"
+        ]
+    },
+    "Puerto Rico": {
+        "population": 3194034,
+        "languages": [
+            "Spanish",
+            "English"
+        ]
+    },
+    "Qatar": {
+        "population": 2881060,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Republic of Kosovo": {
+        "population": 1775378,
+        "languages": [
+            "Albanian",
+            "Serbian"
+        ]
+    },
+    "Réunion": {
+        "population": 840974,
+        "languages": [
+            "French"
+        ]
+    },
+    "Romania": {
+        "population": 19286123,
+        "languages": [
+            "Romanian"
+        ]
+    },
+    "Russian Federation": {
+        "population": 144104080,
+        "languages": [
+            "Russian"
+        ]
+    },
+    "Rwanda": {
+        "population": 12952209,
+        "languages": [
+            "Kinyarwanda",
+            "English",
+            "French"
+        ]
+    },
+    "Saint Barthélemy": {
+        "population": 9417,
+        "languages": [
+            "French"
+        ]
+    },
+    "Saint Helena, Ascension and Tristan da Cunha": {
+        "population": 4255,
+        "languages": [
+            "English"
+        ]
+    },
+    "Saint Kitts and Nevis": {
+        "population": 53192,
+        "languages": [
+            "English"
+        ]
+    },
+    "Saint Lucia": {
+        "population": 183629,
+        "languages": [
+            "English"
+        ]
+    },
+    "Saint Martin (French part)": {
+        "population": 38659,
+        "languages": [
+            "English",
+            "French",
+            "Dutch"
+        ]
+    },
+    "Saint Pierre and Miquelon": {
+        "population": 6069,
+        "languages": [
+            "French"
+        ]
+    },
+    "Saint Vincent and the Grenadines": {
+        "population": 110947,
+        "languages": [
+            "English"
+        ]
+    },
+    "Samoa": {
+        "population": 198410,
+        "languages": [
+            "Samoan",
+            "English"
+        ]
+    },
+    "San Marino": {
+        "population": 33938,
+        "languages": [
+            "Italian"
+        ]
+    },
+    "Sao Tome and Principe": {
+        "population": 219161,
+        "languages": [
+            "Portuguese"
+        ]
+    },
+    "Saudi Arabia": {
+        "population": 34813867,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Senegal": {
+        "population": 16743930,
+        "languages": [
+            "French"
+        ]
+    },
+    "Serbia": {
+        "population": 6908224,
+        "languages": [
+            "Serbian"
+        ]
+    },
+    "Seychelles": {
+        "population": 98462,
+        "languages": [
+            "French",
+            "English"
+        ]
+    },
+    "Sierra Leone": {
+        "population": 7976985,
+        "languages": [
+            "English"
+        ]
+    },
+    "Singapore": {
+        "population": 5685807,
+        "languages": [
+            "English",
+            "Malay",
+            "Tamil",
+            "Chinese"
+        ]
+    },
+    "Sint Maarten (Dutch part)": {
+        "population": 40812,
+        "languages": [
+            "Dutch",
+            "English"
+        ]
+    },
+    "Slovakia": {
+        "population": 5458827,
+        "languages": [
+            "Slovak"
+        ]
+    },
+    "Slovenia": {
+        "population": 2100126,
+        "languages": [
+            "Slovene"
+        ]
+    },
+    "Solomon Islands": {
+        "population": 686878,
+        "languages": [
+            "English"
+        ]
+    },
+    "Somalia": {
+        "population": 15893219,
+        "languages": [
+            "Somali",
+            "Arabic"
+        ]
+    },
+    "South Africa": {
+        "population": 59308690,
+        "languages": [
+            "Afrikaans",
+            "English",
+            "Southern Ndebele",
+            "Southern Sotho",
+            "Swati",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zulu"
+        ]
+    },
+    "South Georgia and the South Sandwich Islands": {
+        "population": 30,
+        "languages": [
+            "English"
+        ]
+    },
+    "Korea (Republic of)": {
+        "population": 51780579,
+        "languages": [
+            "Korean"
+        ]
+    },
+    "Spain": {
+        "population": 47351567,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Sri Lanka": {
+        "population": 21919000,
+        "languages": [
+            "Sinhalese",
+            "Tamil"
+        ]
+    },
+    "Sudan": {
+        "population": 43849269,
+        "languages": [
+            "Arabic",
+            "English"
+        ]
+    },
+    "South Sudan": {
+        "population": 11193729,
+        "languages": [
+            "English"
+        ]
+    },
+    "Suriname": {
+        "population": 586634,
+        "languages": [
+            "Dutch"
+        ]
+    },
+    "Svalbard and Jan Mayen": {
+        "population": 2562,
+        "languages": [
+            "Norwegian"
+        ]
+    },
+    "Swaziland": {
+        "population": 1160164,
+        "languages": [
+            "English",
+            "Swati"
+        ]
+    },
+    "Sweden": {
+        "population": 10353442,
+        "languages": [
+            "Swedish"
+        ]
+    },
+    "Switzerland": {
+        "population": 8636896,
+        "languages": [
+            "German",
+            "French",
+            "Italian",
+            "Romansh"
+        ]
+    },
+    "Syrian Arab Republic": {
+        "population": 17500657,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Taiwan": {
+        "population": 23503349,
+        "languages": [
+            "Chinese"
+        ]
+    },
+    "Tajikistan": {
+        "population": 9537642,
+        "languages": [
+            "Tajik",
+            "Russian"
+        ]
+    },
+    "Tanzania, United Republic of": {
+        "population": 59734213,
+        "languages": [
+            "Swahili",
+            "English"
+        ]
+    },
+    "Thailand": {
+        "population": 69799978,
+        "languages": [
+            "Thai"
+        ]
+    },
+    "Timor-Leste": {
+        "population": 1318442,
+        "languages": [
+            "Portuguese"
+        ]
+    },
+    "Togo": {
+        "population": 8278737,
+        "languages": [
+            "French"
+        ]
+    },
+    "Tokelau": {
+        "population": 1411,
+        "languages": [
+            "English"
+        ]
+    },
+    "Tonga": {
+        "population": 105697,
+        "languages": [
+            "English",
+            "Tonga (Tonga Islands)"
+        ]
+    },
+    "Trinidad and Tobago": {
+        "population": 1399491,
+        "languages": [
+            "English"
+        ]
+    },
+    "Tunisia": {
+        "population": 11818618,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Turkey": {
+        "population": 84339067,
+        "languages": [
+            "Turkish"
+        ]
+    },
+    "Turkmenistan": {
+        "population": 6031187,
+        "languages": [
+            "Turkmen",
+            "Russian"
+        ]
+    },
+    "Turks and Caicos Islands": {
+        "population": 38718,
+        "languages": [
+            "English"
+        ]
+    },
+    "Tuvalu": {
+        "population": 11792,
+        "languages": [
+            "English"
+        ]
+    },
+    "Uganda": {
+        "population": 45741000,
+        "languages": [
+            "English",
+            "Swahili"
+        ]
+    },
+    "Ukraine": {
+        "population": 44134693,
+        "languages": [
+            "Ukrainian"
+        ]
+    },
+    "United Arab Emirates": {
+        "population": 9890400,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "United Kingdom of Great Britain and Northern Ireland": {
+        "population": 67215293,
+        "languages": [
+            "English"
+        ]
+    },
+    "United States of America": {
+        "population": 329484123,
+        "languages": [
+            "English"
+        ]
+    },
+    "Uruguay": {
+        "population": 3473727,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Uzbekistan": {
+        "population": 34232050,
+        "languages": [
+            "Uzbek",
+            "Russian"
+        ]
+    },
+    "Vanuatu": {
+        "population": 307150,
+        "languages": [
+            "Bislama",
+            "English",
+            "French"
+        ]
+    },
+    "Venezuela (Bolivarian Republic of)": {
+        "population": 28435943,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Vietnam": {
+        "population": 97338583,
+        "languages": [
+            "Vietnamese"
+        ]
+    },
+    "Wallis and Futuna": {
+        "population": 11750,
+        "languages": [
+            "French"
+        ]
+    },
+    "Western Sahara": {
+        "population": 510713,
+        "languages": [
+            "Spanish"
+        ]
+    },
+    "Yemen": {
+        "population": 29825968,
+        "languages": [
+            "Arabic"
+        ]
+    },
+    "Zambia": {
+        "population": 18383956,
+        "languages": [
+            "English"
+        ]
+    },
+    "Zimbabwe": {
+        "population": 14862927,
+        "languages": [
+            "English",
+            "Shona",
+            "Northern Ndebele"
+        ]
+    }
+}
